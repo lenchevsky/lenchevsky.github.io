@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: TeamCityNotifier
 date: 2015-09-25 18:39:32.000000000 -06:00
 ---
