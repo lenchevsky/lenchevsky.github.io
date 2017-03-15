@@ -7,7 +7,7 @@ Hello Folks,
 
 This is the second post in my **Atlassian Products for Django Development** series and I'm going to cover **Bamboo** installation.
 
-######So, let's go!
+##### So, let's go!
 
 The first step is to create **Amazon EC2** environment.
 
@@ -44,11 +44,15 @@ Now as our instance is up and running, it's time to install **Bamboo 5**:
 
 Please open your ssh client and connect to EC2 server.
 
+{% endhighlight %}
+
     ssh -i bamboo_private_key.pem ubuntu@<YOUR_SERVER_IP>
+
+{% endhighlight %}
 
 > Note, that your server public IP is available on Amazon EC2 console
 
-
+{% highlight bash %}
 
     # Create Bamboo installation and home folders.
     sudo su
@@ -56,9 +60,13 @@ Please open your ssh client and connect to EC2 server.
     mkdir /opt/bamboo/bamboo-home
     cd /opt/bamboo
 
+{% endhighlight %}
+
 Now you need to know Bamboo installation file download path. You may get it on [Bamboo Linux Download Page](https://www.atlassian.com/software/bamboo/download/).
  
 ![](/content/images/2015/12/download.png)
+
+{% highlight bash %}
 
     # Download Bamboo installation file 
     wget https://www.atlassian.com/<path>/atlassian-bamboo-5.x.x.tar.gz
@@ -78,8 +86,11 @@ Now you need to know Bamboo installation file download path. You may get it on [
     # Start the server
     atlassian-bamboo-5.x.x/bin/start-bamboo.sh
 
+{% endhighlight %}
 
 The output should look like:
+
+{% highlight bash %}
 
     Server startup logs are located in /opt/bamboo/logs/catalina.out
 
@@ -98,7 +109,11 @@ The output should look like:
     Using CLASSPATH:       /opt/bamboo/atlassian-bamboo-5.9.7/bin/bootstrap.jar:/opt/bamboo/atlassian-bamboo-5.9.7/bin/tomcat-juli.jar
     Tomcat started.
 
+{% endhighlight %}
+
 Now Install **Python** tools to deploy Django apps into separate sandboxes:
+
+{% highlight bash %}
 
     # Install PIP and virtualenvwrapper
     apt-get install python-pip python-dev build-essential 
@@ -109,5 +124,7 @@ Now Install **Python** tools to deploy Django apps into separate sandboxes:
     mkdir /opt/python_envs
     export WORKON_HOME=/opt/python_envs
     source /usr/local/bin/virtualenvwrapper.sh
+
+{% endhighlight %}
 
 That's all for today, in the next post I'll explain how to configure our newly installed CI server. 
