@@ -44,7 +44,7 @@ Now as our instance is up and running, it's time to install **Bamboo 5**:
 
 Please open your ssh client and connect to EC2 server.
 
-{% endhighlight %}
+{% highlight bash %}
 
     ssh -i bamboo_private_key.pem ubuntu@<YOUR_SERVER_IP>
 
