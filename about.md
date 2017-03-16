@@ -95,5 +95,5 @@ As an IT manager of one of the departments in structure of the Government of Sam
 <h2>Personal Projects</h2>
 
 <ul>
-	<li><a href="https://lenchevsky.github.com/organikos">Organikos Git Frontend</a></li>
+	<li><a href="https://github.com/lenchevsky/organikos">Organikos Git Repository Frontend</a></li>
 </ul>
