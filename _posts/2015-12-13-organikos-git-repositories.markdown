@@ -15,24 +15,13 @@ Just a few words about the project I've started working on:
 
 I'm going to follow this schedule as much as it possible:
 
-<table>
-<tr><th>Version</th><th>Date</th><th>Functionality</th></tr>
-<tr>
-<td> v.0.5 </td><td> March 1st </td><td> Base functionality - repo creation, navigation, file creation and editing, pull requests.</td>
-</tr>
-<tr>
-<td> v.0.7 </td><td> March 14th </td><td> SSH Remote Cores support.</td>
-</tr>
-<tr>
-<td> v.0.9 </td><td> March 21st </td><td> GitHub Cores support.</td>
-</tr>
-<tr>
-<td> v.1.0 </td><td> March 28th </td><td> BitBucket Cores support.</td>
-</tr>
-<td> v.1.1 </td><td> April 18th </td><td> Installer, <a href="https://github.com/lenchevsky/organikos/issues">bug fixes and new features</a>.</td>
-</tr>
-</table>
-
+| Version | Date | Functionality |
+|-------|--------|---------|
+| v.0.5 | March 1st | Base functionality - repo creation, navigation, file creation and editing, pull requests. |
+| v.0.7 | March 14th | SSH Remote Cores support.|
+| v.0.9 | March 21st | GitHub Cores support. |
+| v.1.0 | March 28th | BitBucket Cores support. |
+| v.1.1 | April 18th | Installer, <a href="https://github.com/lenchevsky/organikos/issues">bug fixes and new features</a>.|
 ### screenshots and videos
 Landing Page
 ![Repo Landing Page](https://raw.githubusercontent.com/lenchevsky/organikos/master/pictures/screens/repo_list.png)
