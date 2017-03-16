@@ -14,7 +14,7 @@ Hello boys and girls!
 Today I would like to speak about [Atlassian Bamboo](https://www.atlassian.com/software/bamboo/) - the continuous integration product from the company that gave us such great products as JIRA, Confluence, SourceTree and BitBucket Server (previously known as Stash). I myself use SourceTree and BitBucket Server almost every day for my projects and have extensive experience with JIRA and Confluence.
 Typically, development teams use Bamboo as well as Jenkins CI server for Java or .NET applications build process, but I will try to configure it to build [Django](https://www.djangoproject.com) applications.
 
-######Before we start
+##### Before we start
 
 First, a few words about that exactly we want to achieve, about prerequisites and shortcuts.
 

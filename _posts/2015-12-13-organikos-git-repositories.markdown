@@ -21,16 +21,21 @@ I'm going to follow this schedule as much as it possible:
 | v.0.7 | March 14th | SSH Remote Cores support.|
 | v.0.9 | March 21st | GitHub Cores support. |
 | v.1.0 | March 28th | BitBucket Cores support. |
-| v.1.1 | April 18th | Installer, <a href="https://github.com/lenchevsky/organikos/issues">bug fixes and new features</a>.|
+| v.1.1 | April 18th | Installer, [bug fixes and new features](https://github.com/lenchevsky/organikos/issues).|
+
+
 ### screenshots and videos
 Landing Page
 ![Repo Landing Page](https://raw.githubusercontent.com/lenchevsky/organikos/master/pictures/screens/repo_list.png)
 
+
 Repo Files List
 ![Repo Files List](https://raw.githubusercontent.com/lenchevsky/organikos/master/pictures/screens/repo_files.png)
 
+
 Repo File Source View
 ![Repo File](https://raw.githubusercontent.com/lenchevsky/organikos/master/pictures/screens/repo_source.png)
+
 
 ### dependencies
 * Django 1.8.3
