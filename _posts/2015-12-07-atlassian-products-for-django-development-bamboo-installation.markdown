@@ -1,7 +1,13 @@
 ---
 layout: post
-title: 'Atlassian Products for Django Development: Bamboo Installation'
+title: "Atlassian Products for Django Development: Bamboo Installation"
 date: 2015-12-07 22:43:25.000000000 -07:00
+category: blog
+author: oleg
+tag:
+- django
+- ci
+- atlassian
 ---
 Hello Folks,
 
