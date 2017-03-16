@@ -1,6 +1,6 @@
 # main text of home
 name: Oleg Snegirev
-bio: DevOps/Application Support Analyst - Available for New Opportunities
+bio: DevOps/Application Support Analyst
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -14,7 +14,7 @@ picture: assets/images/prisma_me.jpg
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume-url: https://1drv.ms/b/s!AggfSaYVdGTfjyk4OMVtVWaxqnGO
 
 url: https://lenchevsky.github.io/
 # your url: http://USERNAME.github.io
@@ -30,7 +30,7 @@ permalink: /:title/
 
 # if you don't want comments in your posts, leave categories empty
 disqus:
-  shortname: mydisqus # enter this from your disqus account
+  shortname: olegsnegirev # enter this from your disqus account
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
