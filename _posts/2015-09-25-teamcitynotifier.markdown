@@ -1,7 +1,12 @@
 ---
-layout: page
-title: TeamCityNotifier
+layout: post
+title: 'TeamCityNotifier'
 date: 2015-09-25 18:39:32.000000000 -06:00
+category: blog
+author: oleg
+tag:
+- python
+- ci
 ---
 TeamCityNotifier is a [python script](https://github.com/lenchevsky/TeamCityNotifier) which sends a push notification to your smartphone as your TC build is Green/Red of TC Server is down. 
 

@@ -2,6 +2,12 @@
 layout: post
 title: 'Atlassian Products for Django Development: Overview'
 date: 2015-12-05 20:36:48.000000000 -07:00
+category: blog
+author: oleg
+tag:
+- django
+- ci
+- atlassian
 ---
 Hello boys and girls!
 ![Atlassian+Django=Love](/content/images/2015/12/combine_images-1.jpg)
