@@ -2,7 +2,7 @@
 layout: post
 title: 'Organikos Git Repositories'
 date: 2015-12-13 16:40:20.000000000 -07:00
-category: project
+category: projects
 author: oleg
 tag:
 - django
