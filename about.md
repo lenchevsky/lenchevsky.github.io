@@ -5,8 +5,7 @@ layout: page
 
 # Oleg Snegirev
 **Senior DevOps & Site Reliability Engineer | CI/CD Automation | Cloud & Infrastructure Support | Application Reliability Expert**  
-Calgary, AB | 587-889-7258 | aleksnegirov@gmail.com  
-[linkedin.com/in/snegirev](https://linkedin.com/in/snegirev) | [oleg.bullfinch.ca](https://oleg.bullfinch.ca)
+Calgary, AB | [linkedin.com/in/snegirev](https://linkedin.com/in/snegirev) | [oleg.bullfinch.ca](https://oleg.bullfinch.ca)
 
 ---
 
